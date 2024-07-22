@@ -3,3 +3,4 @@
 __Eksikler fazlasıyla mevcut, ödeve sadık kalacak seviyede tamamlayarak bıraktım. Öğrendiğim bilgileri üzerine koyarak ilerlemek için fazla sabırsızım çünkü.__
 
 > ilgilenen arkadaşlara fayda sağlayacak yönleri olabileceğini umuyorum
+> SWAGGER depended
